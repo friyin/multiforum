@@ -8,3 +8,5 @@
 /k-diffusion
 /stable-diffusion
 /pytorch3d-lite
+config.yml
+/video
